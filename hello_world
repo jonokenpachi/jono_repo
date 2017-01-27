@@ -1,6 +1,10 @@
 <?php 
 
+<<<<<<< HEAD
 // my first git initial
+=======
+// First git initial from branch exp1
+>>>>>>> exp1
 
 echo "Hello World";
 
